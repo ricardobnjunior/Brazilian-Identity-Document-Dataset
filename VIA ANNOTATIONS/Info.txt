@@ -1,0 +1,14 @@
+In the annotations the field region_attributes contains the classes and infos.
+
+The field info_type can be "d" or "p". If "d" the region contains a "default" text of document background, but if "p" the region contains a personal 
+information and was change to create the BID dataset. 
+
+The field text_type contains the text class of the region, if "d" the information is not relevant, because didn't contais a personal information. 
+Otherwise, contains the class name like "nome" ("name" in portuguese), "data" ("date" in portuguese) and so on.
+
+The field transcription contains the text in the region if the information is not personal (info_type = "d"), otherwise contains only a "X".
+
+All the annotations was did in the original image that contains sigilous data and can't be shared.
+
+Hope that can help your work. Thanks! 
+

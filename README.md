@@ -12,3 +12,23 @@ Sample Dataset: [https://drive.google.com/file/d/144EqqmMtCziua9iYo-3afUEvZrJVxU
 
 
 Full Dataset: [https://drive.google.com/file/d/1Oi88TRcpdjZmJ79WDLb9qFlBNG8q2De6/view?usp=sharing](https://drive.google.com/file/d/1Oi88TRcpdjZmJ79WDLb9qFlBNG8q2De6/view?usp=sharing)
+
+
+### If you use this dataset, please cite:
+
+```` 
+@inproceedings{sibgrapi_estendido,
+ author = {Álysson Soares and Ricardo das Neves Junior and Byron Bezerra},
+ title = {BID Dataset: a challenge dataset for document processing tasks},
+ booktitle = {Anais Estendidos do XXXIII Conference on Graphics, Patterns and Images},
+ location = {Evento Online},
+ year = {2020},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {143--146},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sibgrapi.est.2020.12997},
+ url = {https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/12997}
+}
+```` 
