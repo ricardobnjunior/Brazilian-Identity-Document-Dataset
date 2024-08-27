@@ -31,4 +31,10 @@ Full Dataset: [https://drive.google.com/file/d/1Oi88TRcpdjZmJ79WDLb9qFlBNG8q2De6
  doi = {10.5753/sibgrapi.est.2020.12997},
  url = {https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/12997}
 }
-```` 
+````
+
+# Additional Resources: SpotBID Set Dataset
+
+If you are interested in further datasets related to Brazilian identification documents and occlusion classification, you can also explore the SpotBID Set Dataset. This dataset focuses on scenarios where document images are affected by the spotlight effect, making it an excellent resource for studying occlusion classification in identification documents.
+
+SpotBID Set Dataset: [Explore the dataset](https://github.com/ricardobnjunior/SpotBid-Set-Dataset)
